@@ -1,0 +1,13 @@
+Learn to organize the python project 
+http://monklof.com/post/19/
+
+Question description:
+design and implement the following classes
+The purpose of this homework is to let you be familiar with writing classes in Python. You are encouraged to be creative when working on this assignment. There is no "best solution" to the design of your classes.
+A class Bank, including bank name, bank balance, bank ID, accounts, employees. The bank class should have the following functions: adding an account to the bank, remove an account from the bank, and the balance shall be updated accordingly, etc.
+A class Customer, including customer ID, customer name, accounts associated with the customer. Methods include: adding a new account, remove an account, check total balance, etc.
+A class Account, including the account ID, bank ID, balanace, customer ID. Methods of the class are: updating account balanace, get account info, etc.
+A class Employee, including the employee ID, employee name.
+Write some demo scripts to show how your class can be uses, such as creating a new Bank object, creating a new Customer object, creating a new account at a bank for a customer, remove an account from a bank, update balanace of an account, etc.
+The aforementioned facts are the aspects that must be implemented, you are encouraged to be creative. Add whatever features(classes, fields, methods, super class) you think are useful to your code.
+organize your class prototypes and your script of code in different files and import them properly.
