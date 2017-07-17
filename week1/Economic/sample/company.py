@@ -1,4 +1,4 @@
-from sample.employee import Employee
+from employee import Employee
 
 class Company(object):
 	"""docstring for Company"""
